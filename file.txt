@@ -1,3 +1,4 @@
+HEAD
 hello staus
 
 this is new file
@@ -5,3 +6,6 @@ this is new file
 next commit is finalized
 v3 version code
 java code written by me
+
+this is my bug-fix code
+bug-fix
